@@ -1,7 +1,7 @@
 Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="25px" width="25px"> I'm  [Neelima!](https://www.linkedin.com/in/neelimapaul385/) Welcome to my profile
 
 ### About Me 🚀
-I'm Neelima, a fourth-year CSE student, and even I have days where my brain feels like a tangled mess of if-else statements gone wrong.
+I'm Neelima, recent graduate from KIIT University Bhubaneswar with B.Tech in Computer Science and Engineering, and even I have days where my brain feels like a tangled mess of if-else statements gone wrong.
 
 But guess what? You don't need to be a coding wizard to do amazing things in web development! There are so many tools and platforms out there that let you build beautiful, functional websites without writing a single line of code. Think Wix, Squarespace, Webflow – they're like magic wands for design-savvy folks like you!
 

@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile! 👋
+# I am Neelima! 👋
 
 Hello! I'm a computer science graduate from KIIT University Bhubaneswar with a passion for Java Core, Python, data analysis, data science, and cloud computing.
 

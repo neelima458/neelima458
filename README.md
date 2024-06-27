@@ -14,9 +14,9 @@ Data Science & Analysis: Pandas, NumPy, Matplotlib, Scikit-learn
 Cloud Computing: AWS, Google Cloud Platform
 Version Control: Git, GitHub
 
-- ABM Intern at [Highradius] (https://www.highradius.com/)
+- ABM Intern at [Highradius](https://www.highradius.com/)
 - Virtual Software Engineer Experience at [JPMorgan Chase & Co](https://drive.google.com/file/d/12IWK9V_fO0O-tvWDodriEd_PlT_GnrTY/view?usp=sharing)
-- AWS Semester 1 Cloud Certification (https://drive.google.com/file/d/1bMRzXwaJFooUiiNTi40tX6oDVVLLfrDt/view?usp=drive_link)
+- AWS Semester 1 Cloud Certification [Click](https://drive.google.com/file/d/1bMRzXwaJFooUiiNTi40tX6oDVVLLfrDt/view?usp=drive_link)
 - Mentee, Microsoft Engage 2022 at [Microsoft]
 
 
@@ -70,6 +70,17 @@ Version Control: Git, GitHub
 
 <hr>
 
+## Projects:
+1. [IBM DATA SCIENCE - CAPSTONE PROJECT](https://github.com/neelima458/IBM_Final_Capstone):
+The IBM_Final_Capstone project predicts whether the SpaceX Falcon 9 first stage will land successfully. The project involves **data collection** using SpaceX API and **web scraping**, **data wrangling, exploratory data analysis** with SQL, geospatial analytics using Folium, and creating an interactive dashboard with **Plotly Dash**. It culminates in predictive analysis using machine learning models to forecast landing outcomes. The project showcases skills in data science methodologies, data visualization, and machine learning.
+[GitHub repository](https://github.com/neelima458/IBM_Final_Capstone)
+
+3. [Movie-Mate](https://github.com/neelima458/Movie-Mate-Microsoft_Engage_2022): The **Movie Mate** project is a movie recommendation system built using **Streamlit**. It provides personalized movie recommendations based on user interests. The system leverages content-based, collaborative filtering, and hybrid recommendation approaches. It uses **cosine similarity** for model building and incorporates **data analysis** techniques to create a robust **recommendation engine**. The project includes a web application interface for users to interact with and receive movie suggestions.
+[GitHub repository](https://github.com/neelima458/Movie-Mate-Microsoft_Engage_2022).
+
+3. [The FaceMask Detection using CNN](https://github.com/neelima458/face-mask-detection-using-cnn)The **Face Mask Detection Using CNN** project aims to detect whether individuals are wearing face masks using **Convolutional Neural Networks** (CNN). The model is trained on a dataset with images of people both with and without face masks. The architecture includes multiple convolutional layers, **max-pooling** layers, and fully connected layers. The project involves training the model, evaluating its performance, and making predictions on new images. Key dependencies include **TensorFlow**, **Keras**, **OpenCV**, and **NumPy**.
+[GitHub repository](https://github.com/neelima458/face-mask-detection-using-cnn).
+
 ## Visitor's Count :
 
 
@@ -83,25 +94,16 @@ Version Control: Git, GitHub
 </table>  
 <br> 
 
+
+
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/neelimapaul385/">
-  <img align="center" width="26px" alt="Neelima's LinkedIN" width="25px" src="Assets/linkedin.png" />
-</a>
 
-<a href="https://leetcode.com/neelimapaul385/">
-  <img align="center" alt="Neelima's LeetCode" width="25px" src="Assets/LeetCode.png" />
-</a>
+|[Leetcode](https://leetcode.com/neelimapaul385)  ||  [Instagram](https://www.instagram.com/neelima.hehe) || [E-Mail](mailto:neelimapaul385@gmail.com)  ||  [HackerRank](https://www.hackerrank.com/profile/neelimapaul385)
+   
 
-<a href="https://www.instagram.com/neelima.hehe/">
-  <img align="center" alt="Neelima's Instagram" width="25px" src="Assets/instagram.png" />
-</a>
 
-<a href="mailto:neelimapaul385@gmail.com?subject=Hey%20Neelima,%20From%20Github">
-  <img align="center" alt="Neelima's Gmail" width="25px" src="Assets/gmail.png" />
-</a>
 
-<hr>
 
 
 

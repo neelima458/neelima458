@@ -1,64 +1,71 @@
-Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="25px" width="25px"> I'm  [Neelima!](https://www.linkedin.com/in/neelimapaul385/) Welcome to my profile
+# Welcome to My GitHub Profile! 👋
 
-### About Me 🚀
-I'm Neelima, recent graduate from KIIT University Bhubaneswar with B.Tech in Computer Science and Engineering, and even I have days where my brain feels like a tangled mess of if-else statements gone wrong.
+Hello! I'm a computer science graduate from KIIT University Bhubaneswar with a passion for Java Core, Python, data analysis, data science, and cloud computing.
 
-But guess what? You don't need to be a coding wizard to do amazing things in web development! There are so many tools and platforms out there that let you build beautiful, functional websites without writing a single line of code. Think Wix, Squarespace, Webflow – they're like magic wands for design-savvy folks like you!
+🚀 About Me:
+🔭 I’m currently working on various projects involving data analysis and machine learning.
+🌱 I’m continuously learning and exploring new technologies in cloud computing and data science.
+👯 I’m looking to collaborate on open-source projects and innovative tech solutions.
+💬 Ask me about Java, Python, data analysis, and cloud computing.
+📫 How to reach me: [E-mail](neelimapaul385@gmail.com) | [LinkedIn](linkedin.com/in/neelimapaul385)
+🛠️ Technologies & Tools:
+Programming Languages: Java, Python
+Data Science & Analysis: Pandas, NumPy, Matplotlib, Scikit-learn
+Cloud Computing: AWS, Google Cloud Platform
+Version Control: Git, GitHub
 
-Of course, understanding some basic web development principles – like HTML, CSS, and maybe a sprinkle of JavaScript – can take your creations to the next level. But even then, you can learn it bit by bit, project by project. We code warriors don't start as keyboard ninjas, you know!
-
-So tell me, what kind of web development do you do? Are you a design diva, content queen, or maybe a marketing mastermind? Let's share tips, learn from each other, and build something awesome together! And hey, if you ever get stuck with a pesky bit of code, I'm just a friendly chai break away .
-
-Remember, the web is your canvas, and you don't need a brush made of ones and zeros to paint your masterpiece. Let's unleash your creativity and show the world what we can do! ✨
- 
 - ABM Intern at [Highradius] (https://www.highradius.com/)
 - Virtual Software Engineer Experience at [JPMorgan Chase & Co](https://drive.google.com/file/d/12IWK9V_fO0O-tvWDodriEd_PlT_GnrTY/view?usp=sharing)
 - AWS Semester 1 Cloud Certification (https://drive.google.com/file/d/1bMRzXwaJFooUiiNTi40tX6oDVVLLfrDt/view?usp=drive_link)
 - Mentee, Microsoft Engage 2022 at [Microsoft]
 
 
-<!-- A CSE student at [KIIT University](https://kiit.ac.in/). 
-<br>
-Love to solve complex things in simple ways. -->
-
-
 <br>
 
 <hr>
 
-
-### Technologies:
-
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-<!--![ExpressJs](https://img.shields.io/badge/-ExpressJs-000?&logo=express&logoColor=orange)-->
-![BootStrap5](https://img.shields.io/badge/-BootStrap5-000?&logo=bootstrap&logoColor=violet)
-![Git](https://img.shields.io/badge/-Git-000?&logo=git&logoColor=F05032)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
-<!--![Gradle](https://img.shields.io/badge/-Gradle-000?&logo=gradle&logoColor=brightgreen)-->
-![AutoCAD](https://img.shields.io/badge/-AutoCAD-000?&logo=autodesk&logoColor=FC444F)
-
 ### Languages:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=red)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c&logoColor=68217A)
-![Python](https://img.shields.io/badge/-python-000?&logo=python&logoColor=B62829)
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
+### Frameworks, Libraries & Platform:
 
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
-### Tools:
+### IDEs I am Familiar With: 
 
-
-![Pycharm](https://img.shields.io/badge/-PyCharm-000?&logo=pycharm&logoColor=yellowgreen)
-![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
-
-
+![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### Databases:
 
-![SqlServer](https://img.shields.io/badge/-SqlServer-000?&logo=Microsoft%20SQL%20Server&logoColor=CC2927)
-![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySQL&logoColor=lightblue)
+![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### I work on:
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 
 <hr>
@@ -77,15 +84,19 @@ Love to solve complex things in simple ways. -->
 <br> 
 
 ### Connect with me:
+
 <a href="https://www.linkedin.com/in/neelimapaul385/">
   <img align="center" width="26px" alt="Neelima's LinkedIN" width="25px" src="Assets/linkedin.png" />
 </a>
+
 <a href="https://leetcode.com/neelimapaul385/">
   <img align="center" alt="Neelima's LeetCode" width="25px" src="Assets/LeetCode.png" />
 </a>
+
 <a href="https://www.instagram.com/neelima.hehe/">
   <img align="center" alt="Neelima's Instagram" width="25px" src="Assets/instagram.png" />
 </a>
+
 <a href="mailto:neelimapaul385@gmail.com?subject=Hey%20Neelima,%20From%20Github">
   <img align="center" alt="Neelima's Gmail" width="25px" src="Assets/gmail.png" />
 </a>

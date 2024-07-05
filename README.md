@@ -2,17 +2,11 @@
 
 Hello! I'm a computer science graduate from KIIT University Bhubaneswar with a passion for Java Core, Python, data analysis, data science, and cloud computing.
 
-🚀 About Me:
-🔭 I’m currently working on various projects involving data analysis and machine learning.
-🌱 I’m continuously learning and exploring new technologies in cloud computing and data science.
-👯 I’m looking to collaborate on open-source projects and innovative tech solutions.
-💬 Ask me about Java, Python, data analysis, and cloud computing.
-📫 How to reach me: [E-mail](neelimapaul385@gmail.com) | [LinkedIn](linkedin.com/neelimapaul385)
-🛠️ Technologies & Tools:
-Programming Languages: Java, Python
-Data Science & Analysis: Pandas, NumPy, Matplotlib, Scikit-learn
-Cloud Computing: AWS, Google Cloud Platform
-Version Control: Git, GitHub
+
+🔭 I’m currently working on various projects involving data analysis and machine learning.<br>
+🌱 I’m continuously learning and exploring new technologies in cloud computing and data science.<br>
+👯 I’m looking to collaborate on open-source projects and innovative tech solutions.<br>
+💬 Ask me about Java, Python, data analysis, and cloud computing.<br>
 
 - ABM Intern at [Highradius](https://www.highradius.com/)
 - Virtual Software Engineer Experience at [JPMorgan Chase & Co](https://drive.google.com/file/d/12IWK9V_fO0O-tvWDodriEd_PlT_GnrTY/view?usp=sharing)

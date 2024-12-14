@@ -9,7 +9,7 @@ I'm a computer science graduate from KIIT University Bhubaneswar with a passion 
 👯 I’m looking to collaborate on open-source projects and innovative tech solutions.<br>
 💬 Ask me about Java, Python, data analysis, and cloud computing.<br>
 
-- ABM Intern at [Highradius](https://www.highradius.com/)
+- Intern at [Highradius](https://www.highradius.com/)
 - Virtual Software Engineer Experience at [JPMorgan Chase & Co](https://drive.google.com/file/d/12IWK9V_fO0O-tvWDodriEd_PlT_GnrTY/view?usp=sharing)
 - AWS Semester 1 Cloud Certification [Click](https://drive.google.com/file/d/1bMRzXwaJFooUiiNTi40tX6oDVVLLfrDt/view?usp=drive_link)
 - Mentee, Microsoft Engage 2022 at [Microsoft]

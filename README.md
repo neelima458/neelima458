@@ -1,18 +1,15 @@
-#  👋 guyz! 
-# Neelima-Paul
+#  👋 
 
-I'm a computer science graduate from KIIT University Bhubaneswar with a passion for Java Core, Python, data analysis, data science, and cloud computing.
+Java Full Stack Developer at LTIMindtree, working with Spring Boot and Angular to build real-world applications. Always learning, always coding.
 
+🌱 Continuously improving my skills in Java, Spring Boot, and Angular development.<br>
+👯 Interested in contributing to open-source projects and building innovative solutions.<br>
+💬 Ask me about Java, Spring Boot/Spring, Angular, and Cloud Computing.<br>
 
-🔭 I’m currently working on various projects involving data analysis and machine learning.<br>
-🌱 I’m continuously learning and exploring new technologies in cloud computing and data science.<br>
-👯 I’m looking to collaborate on open-source projects and innovative tech solutions.<br>
-💬 Ask me about Java, Python, data analysis, and cloud computing.<br>
-
+- Software Engineer at [LTIMindtree](https://www.ltimindtree.com/)
 - Intern at [Highradius](https://www.highradius.com/)
-- Virtual Software Engineer Experience at [JPMorgan Chase & Co](https://drive.google.com/file/d/12IWK9V_fO0O-tvWDodriEd_PlT_GnrTY/view?usp=sharing)
 - AWS Semester 1 Cloud Certification [Click](https://drive.google.com/file/d/1bMRzXwaJFooUiiNTi40tX6oDVVLLfrDt/view?usp=drive_link)
-- Mentee, Microsoft Engage 2022 at [Microsoft]
+- Trainee, Microsoft Engage 2022 at [Microsoft]
 
 
 <br>
@@ -116,11 +113,6 @@ I'm a computer science graduate from KIIT University Bhubaneswar with a passion 
   </a>
 
 <hr>
-
-
-## Visitor's Count :
-
-   ![Visitor Count](https://profile-counter.glitch.me/neelima458/count.svg)
 
 ## 📈 Productivity Stats:
 <table>

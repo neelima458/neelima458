@@ -1,12 +1,12 @@
 #  👋 
 
-Java Full Stack Developer at LTIMindtree, working with Spring Boot and Angular to build real-world applications. Always learning, always coding.
+Software Engineer at LTM, working with Spring Boot to build real-world applications. Always learning, always coding.
 
-🌱 Continuously improving my skills in Java, Spring Boot, and Angular development.<br>
+🌱 Continuously improving my skills in Java, Spring Boot.<br>
 👯 Interested in contributing to open-source projects and building innovative solutions.<br>
 💬 Ask me about Java, Spring Boot/Spring, Angular, and Cloud Computing.<br>
 
-- Software Engineer at [LTIMindtree](https://www.ltimindtree.com/)
+- Software Engineer at [LTM](https://www.ltimindtree.com/)
 - Intern at [Highradius](https://www.highradius.com/)
 - AWS Semester 1 Cloud Certification [Click](https://drive.google.com/file/d/1bMRzXwaJFooUiiNTi40tX6oDVVLLfrDt/view?usp=drive_link)
 - Trainee, Microsoft Engage 2022 at [Microsoft]
